@@ -9,7 +9,7 @@ Organization-wide files for [renew-engine](https://github.com/renew-engine).
   [`assets/brand/`](https://github.com/renew-engine/renew/tree/main/assets/brand); these are
   copies, because a profile page can only reference images stored beside it.
 
-The engine itself is at [renew-engine/renew](https://github.com/renew-engine/renew) , issues
+The engine itself is at [renew-engine/renew](https://github.com/renew-engine/renew). Issues
 and pull requests belong there, not here.
 
 Licensed under [Apache-2.0](https://github.com/renew-engine/renew/blob/main/LICENSE), the
